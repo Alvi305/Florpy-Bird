@@ -8,7 +8,7 @@ public class BirdScript : MonoBehaviour
     public LogicScript logic;
     void Start()
     {
-        
+        logic = 
     }
 
     // Update is called once per frame
